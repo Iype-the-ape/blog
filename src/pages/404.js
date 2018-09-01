@@ -10,7 +10,10 @@ const Wrapper = styled.div`
 function NotFound() {
   return (
     <Wrapper>
-      <H2>Sorry, that page was not found.</H2>
+      <H2>
+        ¯\_(ツ)_/¯ <br />
+        Sorry, that page was not found.
+      </H2>
     </Wrapper>
   );
 }

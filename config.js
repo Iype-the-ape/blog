@@ -1,7 +1,7 @@
 module.exports = {
-  title: "Something Blogish", // Required
+  title: "Blog", // Required
   author: "Adithya Nair", // Required
-  tagline: "A FOSS Enthusiast, Lover of Linux and stuff.  I use Arch btw ;P",
+  tagline: "A FOSS Enthusiast and Linux lover. I use Arch btw. ;)",
   primaryColor: "#A973A2", // Required
   showHeaderImage: true,
   showShareButtons: true,
@@ -9,7 +9,7 @@ module.exports = {
   social: {
     website: "https://adtya.co",
     github: "https://github.com/adtyanair",
-    twitter: "https://twitter.com/adtyanair",
+    twitter: "https://twitter.com/__adtya",
     linkedin: "https://linkedin.com/in/adtyanair"
   }
 };
